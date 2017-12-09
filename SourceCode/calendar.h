@@ -10,6 +10,7 @@ class calendar;
 class calendar : public QWidget
 {
     Q_OBJECT
+    //xin chao các cưng
 
 public:
     explicit calendar(QWidget *parent = 0);
